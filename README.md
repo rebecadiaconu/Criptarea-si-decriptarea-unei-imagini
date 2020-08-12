@@ -1,5 +1,5 @@
 # Criptarea-si-decriptarea-unei-imagini
-Proiect la programare procedurala
+Proiect la Programare Procedurala
 
 	Tema proiectului consta in implementarea modulelor de criptare/decriptare si de recunoaștere de cifre 
 	scrise de mana si apoi integrarea lor intr-un program final. 
