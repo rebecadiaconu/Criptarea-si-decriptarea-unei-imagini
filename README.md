@@ -1,5 +1,4 @@
 # Criptarea-si-decriptarea-unei-imagini
-Proiect la Programare Procedurala, FMI
 
 	Tema proiectului consta in implementarea modulelor de criptare/decriptare si de recunoaștere de cifre 
 	scrise de mana si apoi integrarea lor intr-un program final. 
